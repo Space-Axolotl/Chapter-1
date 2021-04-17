@@ -7,6 +7,6 @@ First chapter of the machine learning journey
 ##### 2.2 Multiclass
 #### 3 SVM
 #### 4. Nearest Neighbour
-#### 5. Decision Trees
-#### 6. K-means Clustering
-#### 7. Association Rules
+#### 5. K-means Clustering
+#### 6. Decision Trees
+#### 7. Association Rule Learning
