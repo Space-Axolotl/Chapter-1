@@ -4,8 +4,8 @@ First chapter of the machine learning journey
 #### 1. Linear Regression
 #### 2. Logistic Regression
 ##### 2.1 Binary
-##### 2.2 SVM
-##### 2.3 Multiclass
+##### 2.2 Multiclass
+##### 2.3 SVM
 #### 3. Nearest Neighbour
 #### 4. Decision Trees
 #### 5. K-means Clustering
